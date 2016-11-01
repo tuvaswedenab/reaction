@@ -1,0 +1,12 @@
+{
+  "ROOT_URL": "",
+  "MAIL_URL": "",
+  "reaction": {
+    "REACTION_USER": "admin",
+    "REACTION_AUTH": "password",
+    "REACTION_EMAIL": "admin@tuva.co",
+    "MONGO_URL": "mongodb://admin:1+2is3&.@ds017248.mlab.com:17248/reaction-tuva"
+  },
+  "isDebug": "info",
+  "public": {}
+}
